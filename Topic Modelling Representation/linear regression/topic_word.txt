@@ -1,0 +1,6 @@
+topic0: drug	0.0147 chemotherapy	0.0144 cell	0.0119 epigenetic	0.0118 stop	0.0117
+topic1: sensitive	0.0181 methylation	0.0174 cell	0.0174 dna	0.0174 development	0.0169
+topic2: sensitive	0.0224 germ	0.0219 epigenetic	0.0218 cell	0.0217 development	0.0203
+topic3: dna	0.0154 methylation	0.0152 cell	0.0150 period	0.0148 epigenetic	0.0140
+topic4: dna	0.0146 expression	0.0145 silence	0.0124 methylation	0.0116 sensitive	0.0100
+topic5: sensitive	0.0145 development	0.0136 epigenetic	0.0135 cell	0.0133 effect	0.0117
